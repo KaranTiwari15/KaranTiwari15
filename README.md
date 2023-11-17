@@ -3,7 +3,7 @@
 
 ## <p style="display:flex; align-items: center"> <img width="3%" src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - **[Karan Tiwari](https://ravishukla.me)**
+- 👨‍💻 My Portfolio - **[Karan Tiwari](https://karantiwari15.github.io/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
